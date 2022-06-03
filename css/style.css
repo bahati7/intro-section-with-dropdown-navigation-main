@@ -402,6 +402,7 @@ br{
     gap: 1rem;
     padding-bottom: 0;
 	margin:2rem;
+	width:90%;
 }
 .logo img{
     width: 85px;
