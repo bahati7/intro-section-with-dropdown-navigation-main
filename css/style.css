@@ -396,6 +396,7 @@ br{
     align-items: center;
     gap: 1rem;
     padding-bottom: 0;
+	margin:auto;
 }
 .logo img{
     width: 90px;
