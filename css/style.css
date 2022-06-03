@@ -349,6 +349,11 @@ a{
     box-shadow: none;
     margin-left: 1.5rem;
 }
+.dropdown_link{
+    
+    padding-bottom:2rem;
+   
+}
 
 /**MAIN*/
 .main{
