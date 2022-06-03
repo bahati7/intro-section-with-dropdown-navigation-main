@@ -366,7 +366,7 @@ a{
     position: relative;
 }
 .hero{
-    width: 100%;
+    width: 90%;
     content: url("/images/image-hero-mobile.png");
     position: absolute;
     top: 25%;
