@@ -361,10 +361,10 @@ a{
     position: relative;
 }
 .hero{
-    width: 90%;
+    width: 100%;
     content: url("/images/image-hero-mobile.png");
     position: absolute;
-    top: 15%;
+    top: 25%;
     left: 80%;
     transform: translate(-50%,-50%);
 }
@@ -372,7 +372,7 @@ a{
     gap: 5rem;
     width: 100%;
     text-align: center;
-    margin: 12rem 20%;
+    margin: 60% 20%;
 }
 .text h1{
     font-size: 3rem;
@@ -380,7 +380,6 @@ a{
 }
 .text p{
     width: 100%;
-	padding-bottom: 2rem;
     padding-right: 0;
 }
 br{
@@ -397,12 +396,10 @@ br{
     align-items: center;
     gap: 1rem;
     padding-bottom: 0;
-	
 }
 .logo img{
     width: 75px;
     height: 20px;
-	margin-top:3rem;
 }
     
 }
