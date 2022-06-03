@@ -380,6 +380,7 @@ a{
 }
 .text p{
     width: 100%;
+	padding-bottom: 2rem;
     padding-right: 0;
 }
 br{
